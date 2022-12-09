@@ -16,3 +16,4 @@ while f=="y":
     f=input("do you want to play more y/n: ")
 print("your total score is",a)
 #you should define more your codes more in comments also 
+#you can define the  random function in a way better manner
